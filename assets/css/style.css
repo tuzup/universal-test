@@ -90,7 +90,10 @@ h1, h2, h3, h4, h5, h6 {
    
 	}
 	#header .logo img {
-  max-height: 30px;
+  max-height: 45px;
+}
+#header{
+	padding:15px 0;
 }
 }
 
